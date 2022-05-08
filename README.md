@@ -1,6 +1,6 @@
 # Tiny Lisp
 
-A minimal Lisp interpreter and REPL written in Typescript with support for mutation, lambda functions, conditionals and lists.
+A Lisp interpreter and REPL written in Typescript with support for mutation, lambda functions, conditionals and lists.
 
 ## Running the REPL
 
