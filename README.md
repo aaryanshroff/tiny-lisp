@@ -116,3 +116,7 @@ Empty list
 > (begin (define L 5) (+ L 10))
 15
 ```
+
+## References
+
+Inspired by [Peter Norvig's Lisp in 90 lines of Python](http://norvig.com/lispy.html)
