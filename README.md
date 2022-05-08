@@ -38,6 +38,7 @@ Tail recursive nth fibonacci
 ```lisp
 > (define fib-tr (lambda (n next result) (if (= n 0) result (fib-tr (- n 1) (+ next result) next))))
 > (define fib (lambda (n) (fib-tr n 1 0)))
+> (fib 47)
 2971215073
 evaluate: 1.431ms
 ```
